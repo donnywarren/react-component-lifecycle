@@ -39,7 +39,7 @@ So, what is the Component Life Cycle?
 
 ## The Component Life Cycle
 
-### The Life Cycle Methods (10 min / 0:30)
+### The Life Cycle Methods (10 min / 0:20)
 
 When we create a react component we get a couple of lifecycle methods included
 that we can use to add functionality to our components. These methods are
@@ -78,7 +78,7 @@ Review
 [this handy cheat sheet](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
 for a visual explanation of these life cycle methods and when they get invoked.
 
-## I Do: Exploring the Life Cycle Methods (10 min / 0:40)
+## I Do: Exploring the Life Cycle Methods (10 min / 0:30)
 
 Clone down
 [this repository](https://git.generalassemb.ly/dc-wdi-react-redux/component-lifecycle-exercise)
@@ -95,7 +95,7 @@ do consider the following questions:
 > Add the mounting methods to HomePage.js and the update methods to
 > AboutPage.js. `console.log` something in each method to understand the order.
 
-## Requesting Data from an API (20 min / 1:00)
+## Requesting Data from an API (30 min / 1:00)
 
 Now that we've reviewed the component life cycle methods, let's dive in to what
 we use them for. There are two common use cases for the life cycle methods, but
