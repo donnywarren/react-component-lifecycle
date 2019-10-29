@@ -39,13 +39,6 @@ So, what is the Component Life Cycle?
 
 ## The Component Life Cycle
 
-**You Do: Documentation Deep Dive** Read the documentation on
-[The Component Life Cycle](https://reactjs.org/docs/react-component.html#the-component-lifecycle).
-Read the sections title The Component Lifecycle and Reference. Stop when you get
-to the section titled Rarely Used Lifecycle Methods.
-
-> 10 minutes
-
 ### The Life Cycle Methods (10 min / 0:30)
 
 When we create a react component we get a couple of lifecycle methods included
@@ -77,6 +70,9 @@ There are three types of component lifecycle methods:
 
 > the **bold** methods are the most commonly used ones and the ones we'll focus
 > on for this lesson
+
+Review the documentation on
+[The Component Life Cycle](https://reactjs.org/docs/react-component.html#the-component-lifecycle).
 
 Review
 [this handy cheat sheet](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
