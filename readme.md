@@ -81,7 +81,7 @@ for a visual explanation of these life cycle methods and when they get invoked.
 ## I Do: Exploring the Life Cycle Methods (10 min / 0:30)
 
 Clone down
-[this repository](https://git.generalassemb.ly/dc-wdi-react-redux/component-lifecycle-exercise)
+[this repository](https://git.generalassemb.ly/seir-1118/component-lifecycle-exercise)
 with a short exercise for exploring the life cycle methods.
 
 This exercise is a simple, 2 "page" website where each page is a component.
