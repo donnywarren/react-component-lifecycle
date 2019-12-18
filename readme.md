@@ -101,10 +101,10 @@ Now that we've reviewed the component life cycle methods, let's dive in to what
 we use them for. There are two common use cases for the life cycle methods, but
 the most common is requesting data from an API.
 
-### We Do: [Country List](https://git.generalassemb.ly/dc-wdi-react-redux/react-country-list)
+### We Do: [Country List](https://git.generalassemb.ly/seir-1118/react-country-list)
 
 Clone down
-[this repository](https://git.generalassemb.ly/dc-wdi-react-redux/react-country-list)
+[this repository](https://git.generalassemb.ly/seir-1118/react-country-list)
 which has some exercises on how to make AJAX requests using `fetch()` inside of
 a component.
 
