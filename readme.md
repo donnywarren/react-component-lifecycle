@@ -81,7 +81,7 @@ for a visual explanation of these life cycle methods and when they get invoked.
 ## I Do: Exploring the Life Cycle Methods (10 min / 0:30)
 
 Clone down
-[this repository](https://git.generalassemb.ly/sei-nyc/component-lifecycle-exercise/)
+[this repository](https://git.generalassemb.ly/sei-nyc-supernovas/component-lifecycle-exercise/)
 with a short exercise for exploring the life cycle methods.
 
 This exercise is a simple, 2 "page" website where each page is a component.
@@ -101,10 +101,10 @@ Now that we've reviewed the component life cycle methods, let's dive in to what
 we use them for. There are two common use cases for the life cycle methods, but
 the most common is requesting data from an API.
 
-### We Do: [Country List](https://git.generalassemb.ly/sei-nyc/react-country-list/)
+### We Do: [Country List](https://git.generalassemb.ly/sei-nyc-supernovas/react-country-list/)
 
 Clone down
-[this repository](https://git.generalassemb.ly/sei-nyc/react-country-list/)
+[this repository](https://git.generalassemb.ly/sei-nyc-supernovas/react-country-list/)
 which has some exercises on how to make AJAX requests using `fetch()` inside of
 a component.
 
